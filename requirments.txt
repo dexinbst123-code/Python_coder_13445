@@ -1,0 +1,10 @@
+
+
+
+
+Pandas
+Seaborn
+scikit-learn
+streamlit
+
+python = 13.1.14
